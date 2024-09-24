@@ -15,7 +15,7 @@
 			<class
 				name="com.opencart.testcases.TC001_AccountRegistrationTest" />
 			<class name="com.opencart.testcases.TC002_UserLoginTest" />
-			<!-- <class name="com.opencart.testcases.TC003_LoginDDT" /> -->
+			<class name="com.opencart.testcases.TC003_LoginDDT" /> 
 
 		</classes>
 	</test> <!-- Testing -->

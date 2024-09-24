@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<!-- pull data from remote repo to our local repo -->
+<suite name="master suite">
+	<listeners>
+		<listener
+			class-name="com.opencart.utilities.ExtentUtilityManager" />
+	</listeners>
+
+	<test thread-count="5" name="Testing">
+		<parameter name="os" value="windows"></parameter>
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class
+			<class name="com.opencart.testcases.TC002_UserLoginTest" />
+		</classes>
+	</test> <!-- Testing -->
+</suite> <!-- Suite -->

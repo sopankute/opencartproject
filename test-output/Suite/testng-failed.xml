@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.opencart.utilities.ExtentUtilityManager"/>
+  </listeners>
+  <test thread-count="5" name="Linux-firefox(failed)">
+    <parameter name="os" value="linux"/>
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.opencart.testcases.TC002_UserLoginTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="verify_user_login"/>
+        </methods>
+      </class> <!-- com.opencart.testcases.TC002_UserLoginTest -->
+    </classes>
+  </test> <!-- Linux-firefox(failed) -->
+</suite> <!-- Failed suite [Suite] -->

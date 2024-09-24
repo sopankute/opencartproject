@@ -1,0 +1,279 @@
+12:42:46.929 [main] INFO  com.opencart.testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+12:42:48.324 [main] INFO  com.opencart.testcases.TC003_LoginDDT - ****** Finished TC003_LoginDDT ******
+12:42:48.347 [main] INFO  com.opencart.testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+12:42:59.296 [main] INFO  com.opencart.testcases.TC003_LoginDDT - ****** Finished TC003_LoginDDT ******
+12:42:59.300 [main] INFO  com.opencart.testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+12:43:00.572 [main] INFO  com.opencart.testcases.TC003_LoginDDT - ****** Finished TC003_LoginDDT ******
+12:43:00.746 [main] INFO  com.opencart.testcases.TC003_LoginDDT - Application has been closed.
+12:46:01.464 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml"
+12:46:01.912 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml
+
+12:46:07.964 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+12:46:08.012 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+12:46:08.648 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+12:46:09.068 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+12:46:10.520 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+12:46:10.556 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+12:46:10.558 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+12:46:10.780 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+12:46:16.635 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+12:46:16.644 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+12:46:17.903 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+12:46:17.941 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Login Successfully
+12:46:17.941 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** finished TC002_UserLoginTest ******
+12:46:18.115 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
+12:47:41.812 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml"
+12:47:42.149 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml
+
+12:47:46.610 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+12:47:46.654 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+12:47:47.220 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+12:47:47.573 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+12:47:48.685 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+12:47:48.724 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+12:47:48.729 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+12:47:48.893 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+12:47:52.157 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+12:47:52.162 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+12:47:53.624 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+12:47:53.674 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Login Successfully
+12:47:53.675 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** finished TC002_UserLoginTest ******
+12:47:53.813 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
+12:49:25.269 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml"
+12:49:26.098 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml
+
+12:49:31.252 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+12:49:31.389 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+12:49:31.491 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+12:49:31.857 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+12:49:32.909 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+12:49:32.944 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+12:49:32.949 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+12:49:33.135 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+12:49:35.324 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+12:49:35.328 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+12:49:36.922 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+12:49:37.005 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Login Successfully
+12:49:37.005 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** finished TC002_UserLoginTest ******
+12:49:37.148 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
+12:49:58.459 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml"
+12:49:58.849 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml
+
+12:50:02.609 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+12:50:02.635 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+12:50:03.050 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+12:50:03.684 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+12:50:05.399 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+12:50:05.441 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+12:50:05.445 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+12:50:05.593 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+12:50:08.089 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+12:50:08.100 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+12:50:09.853 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+12:50:09.893 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Login Successfully
+12:50:09.894 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** finished TC002_UserLoginTest ******
+12:50:10.047 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
+12:58:10.936 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml"
+12:58:11.295 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml
+
+12:58:14.948 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+12:58:14.991 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+12:58:15.495 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+12:58:15.929 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+12:58:17.081 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+12:58:17.117 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+12:58:17.120 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+12:58:17.283 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+12:58:22.664 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+12:58:22.677 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+12:58:23.766 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+12:58:23.807 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Login Successfully
+12:58:23.808 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** finished TC002_UserLoginTest ******
+12:58:23.980 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
+13:02:04.210 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml"
+13:02:04.591 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\groupingTest.xml
+
+13:02:10.457 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+13:02:10.484 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+13:02:10.582 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+13:02:11.011 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+13:02:12.057 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+13:02:12.099 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+13:02:12.106 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+13:02:12.277 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+13:02:14.704 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+13:02:14.717 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+13:02:16.125 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+13:02:26.459 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
+10:27:38.410 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\master.xml"
+10:27:38.902 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\master.xml
+
+10:27:43.660 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+10:27:43.700 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+10:27:44.379 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+10:27:44.746 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+10:27:45.890 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+10:27:45.925 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+10:27:45.928 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+10:27:46.077 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+10:27:50.748 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+10:27:50.760 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+10:27:52.212 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+10:27:52.279 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Login Successfully
+10:27:52.279 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** finished TC002_UserLoginTest ******
+10:27:52.436 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
+10:29:55.787 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\master.xml"
+10:29:56.263 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\master.xml
+
+10:32:15.315 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\master.xml"
+10:32:15.697 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\master.xml
+
+10:34:17.911 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\master.xml"
+10:34:18.232 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\master.xml
+
+10:34:21.798 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+10:34:21.843 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+10:34:22.468 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+10:34:22.821 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+10:34:23.983 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+10:34:24.019 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+10:34:24.022 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+10:34:24.193 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+10:34:28.528 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+10:34:28.546 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+10:34:29.471 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+10:34:29.578 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Login Successfully
+10:34:29.579 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** finished TC002_UserLoginTest ******
+10:34:29.813 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
+10:35:20.156 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+10:35:20.165 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+10:35:22.006 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+10:35:22.057 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Login Successfully
+10:35:22.058 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** finished TC002_UserLoginTest ******
+10:35:22.380 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
+10:38:46.734 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\master.xml"
+10:38:47.121 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\master.xml
+
+10:38:51.188 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+10:38:51.232 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+10:38:51.805 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+10:38:52.230 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+10:38:53.349 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+10:38:53.395 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+10:38:53.397 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+10:38:53.525 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+10:38:56.982 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+10:38:56.994 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+10:38:58.614 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+10:38:58.685 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Login Successfully
+10:38:58.685 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** finished TC002_UserLoginTest ******
+10:38:58.780 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
+10:41:04.844 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\crossbrowserTesting.xml"
+10:41:05.412 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\crossbrowserTesting.xml
+
+10:41:05.907 [TestNG-tests-3] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+10:41:05.959 [TestNG-tests-3] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Failed
+10:41:05.959 [TestNG-tests-3] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - debug logs
+10:41:20.071 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+10:41:20.092 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+10:41:20.106 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+10:41:20.109 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+10:41:20.242 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+10:41:20.420 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+10:41:30.543 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Failed
+10:41:30.545 [TestNG-tests-2] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - debug logs
+10:41:35.909 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Failed
+10:41:35.910 [TestNG-tests-1] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - debug logs
+10:44:54.229 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\crossbrowserTesting.xml"
+10:44:54.707 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\crossbrowserTesting.xml
+
+10:44:55.190 [TestNG-tests-3] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+10:44:55.252 [TestNG-tests-3] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Failed
+10:44:55.253 [TestNG-tests-3] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - debug logs
+10:45:04.673 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+10:45:04.677 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+10:45:04.952 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+10:45:05.493 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+10:45:05.506 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+10:45:05.509 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+10:45:13.424 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+10:45:14.095 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+10:45:15.623 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+10:45:25.764 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+10:45:26.122 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+10:45:26.268 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Failed
+10:45:26.268 [TestNG-tests-1] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - debug logs
+11:42:25.096 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\master.xml"
+11:42:25.568 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\master.xml
+
+11:46:01.934 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\grid_docker.xml"
+11:46:02.348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\grid_docker.xml
+
+11:46:09.306 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+11:46:09.363 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+11:46:09.723 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+11:46:10.288 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+11:46:12.685 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+11:46:12.790 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+11:46:12.796 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+11:46:12.984 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+11:51:07.596 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\grid_docker.xml"
+11:51:08.283 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\grid_docker.xml
+
+11:51:20.298 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+11:51:20.413 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+11:51:20.865 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+11:51:21.435 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+11:51:22.867 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+11:51:22.932 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+11:51:22.936 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+11:51:24.384 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+12:09:27.735 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\master.xml"
+12:09:28.450 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpenCart\Project\opencartproject\master.xml
+
+12:09:41.670 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+12:09:41.709 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+12:09:41.918 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+12:09:42.341 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+12:09:43.945 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+12:09:43.997 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+12:09:44.003 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+12:09:44.229 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+12:09:49.549 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+12:09:49.553 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+12:09:50.856 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+12:09:50.920 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Login Successfully
+12:09:50.921 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** finished TC002_UserLoginTest ******
+12:09:51.137 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
+12:27:10.826 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpenCart\Project\opencartproject\master.xml"
+12:27:16.781 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application launched
+12:27:16.812 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Start TC001_AccountRegistrationTest
+12:27:17.601 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on MyAcount
+12:27:18.148 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Register
+12:27:19.821 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - user clicked on Continue
+12:27:19.864 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - validating confirmation msg
+12:27:19.870 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Test Finished
+12:27:20.124 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Application has been closed.
+12:27:25.715 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application launched
+12:27:25.719 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** Starting TC002_UserLoginTest ******
+12:27:27.727 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - clicked on login button
+12:27:27.842 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Login Successfully
+12:27:27.842 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - ****** finished TC002_UserLoginTest ******
+12:27:28.030 [main] INFO  com.opencart.testcases.TC002_UserLoginTest - Application has been closed.
